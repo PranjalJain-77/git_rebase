@@ -1,0 +1,4 @@
+It is testing of Rebase
+
+now I am practise rebase
+I am trying to squash commits
